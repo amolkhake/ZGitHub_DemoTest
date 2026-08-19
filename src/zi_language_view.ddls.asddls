@@ -12,3 +12,4 @@ define view entity ZI_LANGUAGE_VIEW
       text.LanguageCode as language_iso_code1,
       text.LanguageName as language_text
 }
+where spras.LanguageISOCode = 'EN'
