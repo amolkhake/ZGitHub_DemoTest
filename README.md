@@ -1,2 +1,2 @@
 # ZGitHub_DemoTest
-SAP ABAP MCP Demo Repository
+SAP ABAP - GitHub Demo Repository
